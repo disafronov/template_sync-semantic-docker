@@ -1,5 +1,6 @@
 disafronov/dummy-backend
 disafronov/dummy-frontend
+disafronov/etl-prometheus2clickhouse
 disafronov/pachca-file-sender
 disafronov/semantic-release
 disafronov/sloths-inventory
