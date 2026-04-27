@@ -1,6 +1,4 @@
 .github/
 .github/workflows/
 .github/workflows/docker.yaml
-.github/workflows/rebase.yaml
-.github/workflows/release.yaml
-.github/workflows/validate.yaml
+.github/workflows/semantic.yaml
