@@ -3,3 +3,4 @@
 .github/workflows/docker.yaml
 .github/workflows/semantic.yaml
 .github/workflows/force-release-pr.yaml
+.github/workflows/force-release-pr.yml
